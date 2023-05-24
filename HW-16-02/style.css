@@ -1,0 +1,27 @@
+* {
+    margin: 0; /* внешний отступ */
+    padding: 0; /* внутренний отступ */
+    box-sizing: border-box;
+}
+h2 {
+    padding: 20px  0 20px;
+    
+}
+main {
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium';
+}
+table {
+    border: 2px double black;
+    border-collapse: collapse;
+   
+}
+tr, th, td {
+    border: 2px solid black;
+    text-align: center;
+   
+}
+img {
+    width: 40px;
+    border-radius: 6px;
+    }
